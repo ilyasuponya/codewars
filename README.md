@@ -1,3 +1,5 @@
+# https://www.codewars.com/users/ilyasuponya
+
 # JavaScript Katas Solutions
 
 This repository contains solutions to various katas that I have completed using JavaScript as part of my coding practice.
